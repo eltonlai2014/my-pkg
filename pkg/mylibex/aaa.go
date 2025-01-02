@@ -1,4 +1,4 @@
-package mylib2
+package mylibex
 
 func Hello(name string) string {
 	if name == "" {
